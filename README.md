@@ -243,4 +243,4 @@ This repository serves as the official landing page for Anvil Studio. The softwa
 **Get the most recent version of Anvil Studio today!**
 
 ---
-**Last updated:** 2026-09-08 20:40:49 UTC
+**Last updated:** 2026-09-08 23:09:58 UTC
